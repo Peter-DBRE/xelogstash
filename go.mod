@@ -14,7 +14,6 @@ require (
 	github.com/danwakefield/fnmatch v0.0.0-20160403171240-cbb64ac3d964
 	github.com/dlclark/regexp2 v1.1.6
 	github.com/dustin/go-humanize v1.0.0
-	github.com/elastic/go-elasticsearch v0.0.0
 	github.com/elastic/go-elasticsearch/v7 v7.4.1
 	github.com/fatih/structs v0.0.0-20180123065059-ebf56d35bba7
 	github.com/go-ole/go-ole v1.2.4 // indirect
