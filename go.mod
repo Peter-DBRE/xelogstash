@@ -1,4 +1,4 @@
-module github.com/billgraziano/xelogstash
+module github.com/Peter-DBRE/xelogstash
 
 go 1.13
 
