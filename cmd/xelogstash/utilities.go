@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/billgraziano/xelogstash/log"
+	"github.com/Peter-DBRE/xelogstash/log"
 	"github.com/pkg/errors"
 )
 
