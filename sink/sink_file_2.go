@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/billgraziano/xelogstash/pkg/rotator"
+	"github.com/billgraziano/Peter-DBRE/pkg/rotator"
 	"github.com/pkg/errors"
 )
 
