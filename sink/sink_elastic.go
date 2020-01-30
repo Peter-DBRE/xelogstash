@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/elastic/go-elasticsearch/v7"
-	"github.com/billgraziano/xelogstash/eshelper"
+	"github.com/Peter-DBRE/xelogstash/eshelper"
 	"github.com/pkg/errors"
 )
 
