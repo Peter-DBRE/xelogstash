@@ -9,9 +9,9 @@ import (
 	"strings"
 
 	_ "github.com/alexbrainman/odbc"
-	"github.com/billgraziano/Peter-DBRE/log"
-	"github.com/billgraziano/Peter-DBRE/logstash"
-	"github.com/billgraziano/Peter-DBRE/xe"
+	"github.com/Peter-DBRE/xelogstash/log"
+	"github.com/Peter-DBRE/xelogstash/logstash"
+	"github.com/Peter-DBRE/xelogstash/xe"
 	flags "github.com/jessevdk/go-flags"
 	"github.com/pkg/errors"
 )
