@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/billgraziano/xelogstash/pkg/rotator"
-	"github.com/billgraziano/xelogstash/sink"
+	"github.com/Peter-DBRE/xelogstash/pkg/rotator"
+	"github.com/Peter-DBRE/xelogstash/sink"
 
 	"github.com/Showmax/go-fqdn"
 
