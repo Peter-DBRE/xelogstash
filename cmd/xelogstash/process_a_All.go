@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/billgraziano/Peter-DBRE/config"
+	"github.com/Peter-DBRE/xelogstash/config"
 	humanize "github.com/dustin/go-humanize"
 	"github.com/dustin/go-humanize/english"
 	log "github.com/sirupsen/logrus"
