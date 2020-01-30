@@ -6,8 +6,8 @@ import (
 	"os"
 	"regexp"
 
-	"github.com/billgraziano/xelogstash/log"
-	"github.com/billgraziano/xelogstash/logstash"
+	"github.com/Peter-DBRE/xelogstash/log"
+	"github.com/Peter-DBRE/xelogstash/logstash"
 	"github.com/jessevdk/go-flags"
 	"github.com/pkg/errors"
 )
