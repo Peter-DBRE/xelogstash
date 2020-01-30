@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/billgraziano/xelogstash/log"
+	"github.com/Peter-DBRE/xelogstash/log"
 	"github.com/elastic/go-elasticsearch/v7"
 	"github.com/elastic/go-elasticsearch/v7/esapi"
 	"github.com/pkg/errors"
