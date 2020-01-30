@@ -6,11 +6,11 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/billgraziano/xelogstash/config"
-	"github.com/billgraziano/xelogstash/logstash"
-	"github.com/billgraziano/xelogstash/status"
-	"github.com/billgraziano/xelogstash/summary"
-	"github.com/billgraziano/xelogstash/xe"
+	"github.com/Peter-DBRE/xelogstash/config"
+	"github.com/Peter-DBRE/xelogstash/logstash"
+	"github.com/Peter-DBRE/xelogstash/status"
+	"github.com/Peter-DBRE/xelogstash/summary"
+	"github.com/Peter-DBRE/xelogstash/xe"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 )
