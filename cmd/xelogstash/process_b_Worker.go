@@ -3,7 +3,7 @@ package main
 import (
 	"sync"
 
-	"github.com/billgraziano/xelogstash/config"
+	"github.com/billgraziano/Peter-DBRE/config"
 )
 
 // Result holds the result from a source or session process
