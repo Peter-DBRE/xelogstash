@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/billgraziano/toml"
-	"github.com/billgraziano/xelogstash/pkg/rotator"
+	"github.com/Peter-DBRE/xelogstash/pkg/rotator"
 )
 
 // Config defines the configuration read from the TOML file
