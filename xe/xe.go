@@ -10,7 +10,7 @@ import (
 
 	"github.com/dustin/go-humanize"
 
-	"github.com/billgraziano/xelogstash/logstash"
+	"github.com/Peter-DBRE/xelogstash/logstash"
 	"github.com/pkg/errors"
 )
 
