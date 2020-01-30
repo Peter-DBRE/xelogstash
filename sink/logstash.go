@@ -3,7 +3,7 @@ package sink
 import (
 	"fmt"
 
-	"github.com/billgraziano/xelogstash/logstash"
+	"github.com/Peter-DBRE/xelogstash/logstash"
 	"github.com/pkg/errors"
 )
 
