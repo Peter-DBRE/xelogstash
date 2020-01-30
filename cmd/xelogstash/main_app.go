@@ -18,9 +18,9 @@ import (
 
 	_ "github.com/alexbrainman/odbc"
 	singleinstance "github.com/allan-simon/go-singleinstance"
-	"github.com/billgraziano/xelogstash/config"
-	"github.com/billgraziano/xelogstash/pkg/rotator"
-	"github.com/billgraziano/xelogstash/summary"
+	"github.com/Peter-DBRE/xelogstash/config"
+	"github.com/Peter-DBRE/xelogstash/pkg/rotator"
+	"github.com/Peter-DBRE/xelogstash/summary"
 	"github.com/jessevdk/go-flags"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
